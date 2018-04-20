@@ -1,7 +1,7 @@
 package stock.BO;
 /**
  * Java Bean for a stock Open-High-Low-Close values.
- * @author a1727212
+ * @author Amanulla Shaik
  *
  */
 public class Stock_OHLCV {
